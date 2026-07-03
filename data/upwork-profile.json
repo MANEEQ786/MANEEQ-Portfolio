@@ -1,0 +1,29 @@
+{
+  "username": "smasoodpk",
+  "fetchedAt": "2026-06-29T09:14:26.037Z",
+  "profile": {
+    "name": "Saqib M.",
+    "title": "AI Agents, SaaS Apps, MVP & Voice AI Automation Expert",
+    "description": "I help startups, founders, and growing businesses turn AI ideas into real, working products.\n\nIf you are planning to build an AI SaaS platform, AI MVP, voice AI agent, automation system, internal business tool, or AI-powered workflow, I can help you move from concept to execution with clarity, speed, and practical business focus.\n\nMy work is not only about building AI features. I focus on creating solutions that solve real business problems, reduce manual work, improve customer experience, and help companies launch faster.\n\nI can help you with:\n\nAI SaaS Product Development\nDesigning and building scalable AI-powered SaaS platforms from idea to MVP, including product strategy, user flows, database planning, dashboards, admin panels, billing logic, and role-based access.\n\nAI MVP Development\nHelping founders validate ideas quickly by building practical MVPs with clean UI, strong backend structure, real workflows, and future scalability in mind.\n\nVoice AI Automation\nCreating AI voice agents for customer support, appointment booking, lead qualification, sales calls, follow-ups, inbound/outbound calling, and industry-specific voice workflows.\n\nAI Agents & Workflow Automation\nBuilding intelligent agents that can handle tasks, retrieve information, process documents, connect with tools, automate repetitive work, and support business teams.\n\nGenerative AI & Chatbot Solutions\nDeveloping smart chatbots, AI assistants, document-based Q&A systems, RAG applications, customer support bots, internal knowledge assistants, and business copilots.\n\nBusiness Process Automation\nAutomating manual operations across sales, HR, recruitment, support, finance, reporting, customer onboarding, and internal team workflows.\n\nTech & Integration Experience\nI work with modern AI and SaaS stacks including OpenAI, Claude, Gemini, Supabase, PostgreSQL, React, TypeScript, Tailwind, Node.js, APIs, automation tools, CRM integrations, voice APIs, and workflow platforms.\n\nWhat makes my approach different is that I think like both a product builder and a business consultant. I do not just ask, “What feature do you want?” I look at the business goal, user journey, workflow, cost, scalability, and launch strategy.\n\nYou can work with me if you need:\n\nA clear AI product plan\nA complete AI MVP\nA SaaS dashboard or business platform\nA voice AI assistant\nA chatbot or AI agent\nWorkflow automation for your business\nAI integration into your existing system\nA technical product partner who understands business outcomes\n\nIf you have an AI idea and want to turn it into a practical product, I can help you define it, design it, build it, and prepare it for real users.\n\nLet’s build something useful, intelligent, and ready for the market.",
+    "portrait": "https://www.upwork.com/profile-portraits/c1kh92JgiYreqJnEzatls3MjglmCYDhsbXh65LTaOa38Hfy0hXWtAAO6DXVqaQTiDj",
+    "portraitFile": "/upwork/portrait.jpg",
+    "url": "https://www.upwork.com/freelancers/smasoodpk",
+    "hourlyRate": 40,
+    "currency": "USD",
+    "badge": "Rising Talent",
+    "jobSuccessScore": 0,
+    "totalEarnings": 0,
+    "totalJobs": 0,
+    "totalHours": 0,
+    "location": "Islamabad, Pakistan",
+    "availabilityBadge": true,
+    "skills": [
+      "Python",
+      "Tensorflow",
+      "SaaS",
+      "Generative Technique",
+      "Chatbot Software",
+      "Artificial Intelligence"
+    ]
+  }
+}

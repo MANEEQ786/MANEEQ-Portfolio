@@ -1,0 +1,36 @@
+{
+  "name": "xiomi-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "refresh:linkedin": "node scripts/refresh-linkedin.mjs",
+    "refresh:twitter": "node scripts/refresh-twitter.mjs",
+    "refresh:github": "node scripts/refresh-github.mjs",
+    "refresh:upwork": "node scripts/refresh-upwork.mjs",
+    "refresh:blog": "node scripts/refresh-blog.mjs",
+    "refresh:all": "node scripts/refresh-all.mjs",
+    "refresh:prod-test": "node scripts/test-refresh-endpoint.mjs"
+  },
+  "dependencies": {
+    "@elevenlabs/react": "^1.7.0",
+    "@vercel/blob": "^2.5.0",
+    "disposable-email-domains": "^1.0.62",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.21.0",
+    "next": "15.1.6",
+    "nodemailer": "^9.0.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nodemailer": "^8.0.1",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "fetchedAt": "2026-06-29T09:14:09.296Z",
+  "profile": {
+    "login": "msmasood",
+    "name": "Muhammad Saqib Masood",
+    "bio": "",
+    "avatar": "https://avatars.githubusercontent.com/u/200499452?v=4",
+    "url": "https://github.com/msmasood",
+    "followers": 0,
+    "following": 0,
+    "publicRepos": 7,
+    "totalStars": 0,
+    "company": "Vision Tact",
+    "location": "Dubai",
+    "blog": "visiontact.com"
+  },
+  "repos": [
+    {
+      "name": "EduVanta",
+      "description": "",
+      "url": "https://github.com/msmasood/EduVanta",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Geospatial-Intelligence-Agent",
+      "description": "Built an AI-powered geospatial analysis agent for environmental monitoring and urban planning using FAISS, GeoPandas, and LangChain.",
+      "url": "https://github.com/msmasood/Geospatial-Intelligence-Agent",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Disease-Outbreak-Mapping",
+      "description": " Integrates satellite and health datasets to generate outbreak risk maps using PyQGIS automation",
+      "url": "https://github.com/msmasood/Disease-Outbreak-Mapping",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Traffic-Pattern-Prediction",
+      "description": "Uses LSTM deep learning models and ArcGIS dashboards to predict urban traffic congestion.",
+      "url": "https://github.com/msmasood/Traffic-Pattern-Prediction",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "logiflow-ai",
+      "description": "Intelligent supply chain agent for optimizing transport routes, inventory placement, and reducing operational costs",
+      "url": "https://github.com/msmasood/logiflow-ai",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "enviroguard-ai",
+      "description": "Real-time environmental data monitoring system detecting hazards, predicting risks, and automating alerts for rapid response",
+      "url": "https://github.com/msmasood/enviroguard-ai",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    }
+  ]
+}

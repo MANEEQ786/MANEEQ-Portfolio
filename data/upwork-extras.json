@@ -1,0 +1,70 @@
+{
+  "_comment": "Resume-style sections the Upwork scraper does NOT return. Maintained by hand; merged into the Upwork card alongside the auto-synced data/upwork-profile.json. Edit freely — npm run refresh:upwork never touches this file.",
+  "openToContractToHire": true,
+  "hoursPerWeek": "More than 30 hrs/week",
+  "verified": true,
+  "associatedWith": "VisionTact",
+  "introVideo": "https://youtube.com/shorts/m47hIj6ykec?feature=share",
+  "languages": [{ "name": "English", "level": "Fluent" }],
+  "verifications": ["ID Verified"],
+  "consultation": {
+    "title": "Development & IT Consultation",
+    "price": "$20 per 30 min Zoom meeting",
+    "topics": ["AI & Machine Learning", "AI Integration", "Chatbot Development", "Prompt Engineering", "Website Builders & CMS"]
+  },
+  "projectCatalog": [
+    { "title": "AI agents, reports and social intelligence dashboard", "price": "From $950" },
+    { "title": "AI law firm front desk and client intake platform", "price": "From $850" },
+    { "title": "Finance advisory and portfolio dashboard platform", "price": "From $950" },
+    { "title": "Multilingual school management system and LMS", "price": "From $950" }
+  ],
+  "portfolio": [
+    { "title": "Synthèse", "subtitle": "AI Narrative Monitoring & Intelligence platform" },
+    { "title": "LexDesk", "subtitle": "AI-Powered Legal Front Desk & Booking Assistant" },
+    { "title": "Coinest", "subtitle": "Financial Advisory, Wealth & Portfolio Management Platform" }
+  ],
+  "certifications": [
+    { "name": "Building AI Cloud Apps with Microsoft Azure", "provider": "Microsoft", "issued": "Sep 2025" },
+    { "name": "IBM Machine Learning", "provider": "IBM", "issued": "Sep 2025" },
+    { "name": "Social Media Analytics", "provider": "Johns Hopkins University", "issued": "Sep 2025" },
+    { "name": "Google IT Automation with Python", "provider": "Google", "issued": "Sep 2025" },
+    { "name": "Microsoft Generative AI for Data Analysis", "provider": "Microsoft", "issued": "Sep 2025" },
+    { "name": "IBM Product Owner", "provider": "IBM", "issued": "Sep 2025" },
+    { "name": "Google Project Management", "provider": "Google", "issued": "Sep 2025" },
+    { "name": "Google Business Intelligence", "provider": "Google", "issued": "Sep 2025" },
+    { "name": "AWS Generative AI for Developers", "provider": "Amazon Web Services", "issued": "Sep 2025" },
+    { "name": "IBM Deep Learning with PyTorch, Keras and Tensorflow", "provider": "IBM", "issued": "Sep 2025" }
+  ],
+  "employment": [
+    {
+      "role": "AI Product Architect | Generative AI & Agentic Systems Expert",
+      "company": "VisionTact",
+      "period": "Jul 2021 - Present",
+      "description": "Designing, architecting, and deploying advanced AI systems that combine Generative AI, Agentic AI, automation, vector search, RAG pipelines, APIs, and scalable cloud infrastructure to solve real business problems. Core focus: LLM applications, RAG architecture, vector databases, AI SaaS architecture, prompt engineering, workflow automation, FastAPI, Python, Supabase, PostgreSQL, Voice AI, and MVP development."
+    },
+    {
+      "role": "Geospatial Data Visualization & AI Consultant",
+      "company": "FAO",
+      "period": "Feb 2022 - Nov 2025",
+      "description": "Delivering predictive geospatial intelligence for FAO projects by integrating AI with GIS to transform raw field data into actionable insights for agricultural planning, environmental management, and socio-economic decision-making. Built interactive dashboards and spatial models, applied ML for pattern detection, and produced data-driven visualizations and predictive reports for M&E and policy support."
+    },
+    {
+      "role": "IT Manager",
+      "company": "Government Job",
+      "period": "Oct 2011 - Feb 2022",
+      "description": "Directed digital transformation, cybersecurity, and AI-enabled media strategies for the Government of Pakistan. Led enterprise IT modernization, cyber defense protocols, MIS platforms, workflow automation, and citizen portals, and applied AI/NLP for sentiment analysis, misinformation detection, and trend forecasting with real-time dashboards for disaster management and inter-agency reporting."
+    }
+  ],
+  "otherExperience": [
+    { "role": "Humanitarian GIS Support", "description": "Supported NGOs and local authorities with rapid GIS mapping during floods and earthquakes, creating situational awareness maps for relief coordination." },
+    { "role": "Digital Media Consultant", "description": "Led the strategic use of digital platforms for narrative building, audience engagement, and information outreach — crafting data-driven media strategies and leveraging analytics to monitor public sentiment." }
+  ],
+  "education": [
+    { "school": "Strayer University", "degree": "Master's degree, Computer Science", "years": "2005-2006" },
+    { "school": "Arkansas Tech University", "degree": "BS, Computer Science", "years": "2001-2004" }
+  ],
+  "linkedAccounts": [
+    { "platform": "GitHub", "name": "Muhammad Saqib Masood", "note": "Since 2025" },
+    { "platform": "StackOverflow", "name": "Saqib Masood", "note": "" }
+  ]
+}
